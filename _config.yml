@@ -1,5 +1,5 @@
-title: <h1 id="demo" style="text-align:center; color:white;">Kolas</h1>
-description: 
+title: <h1 id="demo" style="text-align:Left; color:white;">Kolas</h1>
+description: The Temperory Page
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
